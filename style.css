@@ -1,0 +1,33 @@
+h1 {
+  font-size: 24px
+}
+body {
+    background-image: url("assets/main.jpg");
+    background-color: #FF6666;
+    background-size: 1350px 700px;
+    background-repeat: no-repeat;
+    background-margin: auto;
+    background-position: center;
+    background-attachment: fixed;
+    background-opacity: 1;
+    background-blend-mode: color-dodge;
+}
+h1{
+  position: absolute;
+  top: 25px;
+  left: 230px;
+  font-weight: bold;
+  font-size: 36px;
+  color: #0033CC;
+  font-style: italic;
+}
+
+p{
+  position: absolute;
+  top: 95px;
+  left: 70px;
+  text-indent:2.8em;width:550px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #0033CC;
+}
